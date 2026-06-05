@@ -135,13 +135,6 @@
 
 ---
 
-## 与内部版的区别
-
-本开源仓库基于 LAN-ClipSync 内部版 fork，主要变更为：
-
-- **移除 200 字符长度上限**，与系统剪切板行为一致
-- 文档面向公开用户与贡献者；架构细节见 [REQUIREMENTS.md](REQUIREMENTS.md)
-
 欢迎 Issue 与 Pull Request。
 
 ---
